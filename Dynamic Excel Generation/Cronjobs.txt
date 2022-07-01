@@ -1,0 +1,7 @@
+30 8 * * * /usr/bin/python3 /home/centos/Intern/jatin/email1/email_prakash.py
+
+30 8 * * 1 /usr/bin/python3 /home/centos/Intern/jatin/email1/email_rajeev.py
+
+30 8 15 * * /usr/bin/python3 /home/centos/Intern/jatin/email1/email_rajeev.py
+
+30 8 * 30 * /usr/bin/python3 /home/centos/Intern/jatin/email1/email_prakash.py
